@@ -1,6 +1,6 @@
 Name:		texlive-tikz-trackschematic
 Version:	63480
-Release:	1
+Release:	2
 Summary:	A TikZ library for creating track diagrams in railways
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-trackschematic
