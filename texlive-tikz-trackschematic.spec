@@ -3,7 +3,7 @@ Version:	63480
 Release:	2
 Summary:	A TikZ library for creating track diagrams in railways
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-trackschematic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikz-trackschematic
 License:	isc
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-trackschematic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikz-trackschematic.doc.r%{version}.tar.xz
